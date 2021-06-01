@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-28T21:21:51 EDT" name="Suite" finished-at="2021-05-28T21:22:37 EDT" duration-ms="46757">
+    <groups>
+    </groups>
+    <test started-at="2021-05-28T21:21:51 EDT" name="Test" finished-at="2021-05-28T21:22:37 EDT" duration-ms="46757">
+      <class name="com.DollarDays.TestCases.TC_PopUp_002">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DollarDays.TestCases.TC_PopUp_002@31190526]" started-at="2021-05-28T21:22:21 EDT" name="setup" finished-at="2021-05-28T21:22:24 EDT" duration-ms="2915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="PopUptest()[pri:0, instance:com.DollarDays.TestCases.TC_PopUp_002@31190526]" started-at="2021-05-28T21:22:24 EDT" name="PopUptest" finished-at="2021-05-28T21:22:33 EDT" duration-ms="8818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PopUptest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DollarDays.TestCases.TC_PopUp_002@31190526]" started-at="2021-05-28T21:22:33 EDT" name="tearDown" finished-at="2021-05-28T21:22:37 EDT" duration-ms="4301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.DollarDays.TestCases.TC_PopUp_002 -->
+      <class name="com.DollarDays.TestCases.WishListIconTC_002">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DollarDays.TestCases.WishListIconTC_002@229f66ed]" started-at="2021-05-28T21:22:07 EDT" name="setup" finished-at="2021-05-28T21:22:11 EDT" duration-ms="3237" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="WishListTC_001()[pri:0, instance:com.DollarDays.TestCases.WishListIconTC_002@229f66ed]" started-at="2021-05-28T21:22:11 EDT" name="WishListTC_001" finished-at="2021-05-28T21:22:12 EDT" duration-ms="1281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WishListTC_001 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DollarDays.TestCases.WishListIconTC_002@229f66ed]" started-at="2021-05-28T21:22:12 EDT" name="tearDown" finished-at="2021-05-28T21:22:12 EDT" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DollarDays.TestCases.WishListIconTC_002@229f66ed]" started-at="2021-05-28T21:22:12 EDT" name="setup" finished-at="2021-05-28T21:22:15 EDT" duration-ms="3057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="WishListTC_002()[pri:1, instance:com.DollarDays.TestCases.WishListIconTC_002@229f66ed]" started-at="2021-05-28T21:22:15 EDT" name="WishListTC_002" finished-at="2021-05-28T21:22:17 EDT" duration-ms="1799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WishListTC_002 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DollarDays.TestCases.WishListIconTC_002@229f66ed]" started-at="2021-05-28T21:22:17 EDT" name="tearDown" finished-at="2021-05-28T21:22:21 EDT" duration-ms="4266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.DollarDays.TestCases.WishListIconTC_002 -->
+      <class name="com.DollarDays.TestCases.LoginTC_DD07">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.DollarDays.TestCases.LoginTC_DD07@15ff3e9e]" started-at="2021-05-28T21:21:51 EDT" name="setup" finished-at="2021-05-28T21:21:56 EDT" duration-ms="4831" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginTest()[pri:0, instance:com.DollarDays.TestCases.LoginTC_DD07@15ff3e9e]" started-at="2021-05-28T21:21:56 EDT" name="LoginTest" finished-at="2021-05-28T21:22:03 EDT" duration-ms="7087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DollarDays.TestCases.LoginTC_DD07@15ff3e9e]" started-at="2021-05-28T21:22:03 EDT" name="tearDown" finished-at="2021-05-28T21:22:07 EDT" duration-ms="4278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.DollarDays.TestCases.LoginTC_DD07 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
